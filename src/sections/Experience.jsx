@@ -6,7 +6,7 @@ export default function Experience() {
       company: "WOW Finstack",
       type: "Hybrid",
       role: "Software Developer",
-      duration: "Dec 2024 - Present",
+      duration: "December 2024 - Present",
       details: [
         "Developed secure RESTful backend services and APIs with Java and Spring Boot, implementing best practices for authentication, authorization, and error handling.",
         "Designed and implemented a scalable microservice for dynamic QR code generation, supporting customization and seamless integration across services.",
@@ -34,7 +34,7 @@ export default function Experience() {
             >
               <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center mb-4">
                 <h4 className="text-xl font-semibold text-forest-moss">{exp.role}</h4>
-                <span className="text-sm text-gray-500">{exp.duration}</span>
+                <span className="text-sm font-semibold text-gray-500">{exp.duration}</span>
               </div>
               <p className="text-gray-700 font-semibold mb-2">{exp.company} • {exp.type}</p>
 
