@@ -15,6 +15,8 @@ const skills = [
 
   // Frontend
   { name: "React.js", category: "Frontend", icon: "⚛️" },
+  { name: "Vite", category: "Frontend", icon: "⚡" },
+  { name: "TailwindCSS", category: "Frontend", icon: "💠" },
 
   // Databases
   { name: "MySQL", category: "Databases", icon: "🗄️" },
