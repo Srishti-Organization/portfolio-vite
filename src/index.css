@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./animations.css";
+/* small custom */
+:root {
+  --glass: rgba(255,255,255,0.6);
+  --font-bold: 700;
+  --font-semibold: 600;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.text-shadow {
+  text-shadow: 0 2px 6px rgba(0,0,0,0.25);
+}
