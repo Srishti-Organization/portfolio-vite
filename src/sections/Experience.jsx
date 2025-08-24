@@ -36,7 +36,7 @@ export default function Experience() {
                 <h4 className="text-xl font-semibold text-forest-moss">{exp.role}</h4>
                 <span className="text-sm text-gray-500">{exp.duration}</span>
               </div>
-              <p className="text-gray-700 font-medium mb-2">{exp.company} • {exp.type}</p>
+              <p className="text-gray-700 font-semibold mb-2">{exp.company} • {exp.type}</p>
 
               <ul className="list-disc list-inside text-gray-700 space-y-1">
                 {exp.details.map((point, i) => (
