@@ -51,7 +51,7 @@ export default function Hero() {
         {/* Caption / tagline */}
         <div className="mt-6 text-center">
             <h3 className="text-2xl font-display font-bold text-forest-indigo">Srishti Rao</h3>
-            <p className="mt-1 text-sm text-gray-700 max-w-xs mx-auto">
+            <p className="mt-1 text-sm font-semiboldcustom text-gray-700 max-w-xs mx-auto">
                 Blending AI Insights with Practical Backend Solutions
             </p>
         </div>
