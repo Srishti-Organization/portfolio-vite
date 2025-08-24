@@ -8,12 +8,10 @@ export default function Experience() {
       role: "Software Developer",
       duration: "December 2024 - Present",
       details: [
-        "Developed secure RESTful backend services and APIs with Java and Spring Boot, implementing best practices for authentication, authorization, and error handling.",
-        "Designed and implemented a scalable microservice for dynamic QR code generation, supporting customization and seamless integration across services.",
-        "Built the User Management module in a Card Management System, handling onboarding, authentication, and account profile management.",
-        "Integrated frontend for Card Management and Core Banking Systems, providing a seamless web interface to enhance user experience.",
-        "Implemented logging, monitoring, and error tracking to improve system reliability and maintainability.",
-        "Collaborated in Agile sprints, conducted code reviews, and mentored junior developers on backend and API best practices."
+        "Developed secure RESTful backend services and APIs with Java, Spring Boot, implementing best practices for authentication, authorization, and error handling.",
+        "Designed and implemented a scalable microservice for dynamic QR code generation with support for customization and integration between services.",
+        "Implemented the User Management module in a Card Management System to support onboarding, authentication, and account profile management",
+        "Integrated frontend for the Card Management and Core Banking Systems, providing users with a seamless web interface to access and manage features."
       ]
     }
   ];
