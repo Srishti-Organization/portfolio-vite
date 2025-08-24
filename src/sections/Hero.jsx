@@ -20,8 +20,8 @@ export default function Hero() {
           </p>
 
           <div className="mt-6 flex flex-wrap gap-4">
-            <a href="/Srishti_Rao_Resume.pdf" target="_blank" rel="noreferrer" className="inline-flex items-center gap-3 bg-forest-indigo text-white px-5 py-3 rounded-full shadow-lg hover:scale-105 transition">Resume 📄</a>
-            <a href="https://github.com/srishti-rao" target="_blank" rel="noreferrer" className="inline-flex items-center gap-3 bg-forest-moss text-white px-5 py-3 rounded-full shadow hover:scale-105 transition">GitHub 🐈‍⬛</a>
+            <a href="/Srishti_Rao_Resume.pdf" target="_blank" rel="noreferrer" className="inline-flex items-center gap-3 bg-forest-indigo text-white font-semiboldcustom px-5 py-3 rounded-full shadow-lg hover:scale-105 transition">Resume 📄</a>
+            <a href="https://github.com/srishti-rao" target="_blank" rel="noreferrer" className="inline-flex items-center gap-3 bg-forest-moss text-white font-semiboldcustom px-5 py-3 rounded-full shadow hover:scale-105 transition">GitHub 🐈‍⬛</a>
           </div>
 
         </motion.div>
