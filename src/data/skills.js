@@ -31,6 +31,7 @@ const skills = [
   { name: "Gradle", category: "DevOps & Tools", icon: "📦" },
   { name: "Maven", category: "DevOps & Tools", icon: "📦" },
   { name: "Postman", category: "DevOps & Tools", icon: "📬" },
+  { name: "Swagger (OpenAPI)", category: "DevOps & Tools", icon: "📖" },
 
   // AI & ML
   { name: "PyTorch", category: "AI & ML", icon: "🤖" },
