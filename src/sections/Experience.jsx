@@ -13,7 +13,7 @@ export default function Experience() {
         "Implemented the User Management module in a Card Management System to support onboarding, authentication, and account profile management",
         "Conducted extensive testing and debugging of the Issuer System using Visa Simulator to ensure reliable card transaction processing and payment management."
       ]
-    }
+    },
     {
       company: "Sardar Vallabhbhai National Institute of Technology, Surat",
       type: "Onsite",
