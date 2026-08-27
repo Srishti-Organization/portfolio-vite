@@ -8,10 +8,11 @@ export default function Experience() {
       role: "Software Developer (Intern)",
       duration: "December 2024 - Present",
       details: [
-        "Developed secure RESTful backend services and APIs with Java, Spring Boot, implementing best practices for authentication, authorization, and error handling.",
-        "Designed and implemented a scalable microservice for dynamic QR code generation with support for customization and integration between services.",
-        "Implemented the User Management module in a Card Management System to support onboarding, authentication, and account profile management",
-        "Conducted extensive testing and debugging of the Issuer System using Visa Simulator to ensure reliable card transaction processing and payment management."
+        "Developed secure RESTful backend services and APIs with Java and Spring Boot, implementing best practices for authentication, authorization, and error handling.",
+        "Designed and implemented a scalable microservice for dynamic QR code generation with support for customization and clean integration between services.",
+        "Implemented the User Management module in a Card Management System to support onboarding, authentication, and account profile management.",
+        "Built an ISO8583-compliant Issuer Simulator and conducted extensive testing using the Visa Simulator to emulate financial responses, validate card issuer workflows, and ensure reliable transaction processing.",
+        "Executed comprehensive payment system testing and transaction validation tailored specifically for 019 Bank (Israel) protocols."
       ]
     },
     {
@@ -20,13 +21,13 @@ export default function Experience() {
       role: "Research Intern",
       duration: "August 2025 - December 2025",
       details: [
-        "Developed a Multi-Resolution Ensemble (MRE) framework using 9 lightweight CNNs (EfficientNet, MobileNet, ShuffleNet) to classify breast cancer histopathology images.",
-        "Engineered MRPE, a novel weighting scheme that optimizes the balance between model accuracy and inference speed for clinical use.",
-        "Achieved a 95.00% test accuracy with an EfficientNet-B0 backbone, significantly surpassing the 87% ICIAR 2018 BACH challenge benchmark.",
-        "Implemented a quantitative XAI framework using Grad-CAM and IoU to measure spatial overlap between AI heatmaps and pathologist regions of interest.",
-        "Established a statistically significant positive correlation (p=0.02) between AI activations and human-centric diagnostic scores, improving model transparency.",
-        "Benchmarked FP16 vs. FP32 inference on Apple M4 hardware, identifying critical performance bottlenecks in specialized hardware kernels.",
-        "Built a Gradio web interface to provide a \"glass-box\" diagnostic tool for real-time image analysis and uncertainty visualization."
+        "Developed a Multi-Resolution Ensemble (MRE) framework using lightweight CNNs (EfficientNet, MobileNet, ShuffleNet) to classify breast cancer histopathology images across multiple scales.",
+        "Engineered MRPE, a weighting scheme that balances model accuracy against inference speed for clinical use.",
+        "Achieved 95.00% test accuracy with an EfficientNet-B0 backbone, surpassing the 87% ICIAR 2018 BACH challenge benchmark.",
+        "Implemented a quantitative XAI framework using Grad-CAM and IoU to measure spatial overlap between model heatmaps and pathologist regions of interest.",
+        "Established a statistically significant positive correlation (p=0.02) between model activations and human-centric diagnostic scores, improving transparency.",
+        "Benchmarked FP16 vs. FP32 inference on Apple M4 hardware, identifying performance bottlenecks in specialized hardware kernels.",
+        "Built a Gradio web interface providing a \"glass-box\" diagnostic tool for real-time image analysis and uncertainty visualization."
       ]
     }
   ];
