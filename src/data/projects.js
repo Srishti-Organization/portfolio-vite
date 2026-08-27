@@ -7,7 +7,7 @@ export const projects = [
   {
     title: "Deepfake Video Detector",
     desc: "A deep learning model that detects manipulated video content by picking up temporal inconsistencies across frames, built to verify media authenticity on noisy real-world footage.",
-    link: "https://github.com/srishti-rao",
+    link: "https://github.com/Srishti-Organization/deepfake-video-detector",
   },
   {
     title: "Dynamic QR Management",
