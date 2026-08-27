@@ -24,12 +24,18 @@ export default function About() {
             whileInView={{ y: [20, 0], opacity: [0, 1] }}
             className="text-gray-700 max-w-3xl"
           >
-            I'm an aspiring software engineer pursuing a B.Tech in Artificial
-            Intelligence (NIT Surat, expected 2027). I have experience developing
-            secure backend services, microservices, and FinTech applications using
-            Java, Spring Boot, and Apache Kafka. I also have practical exposure to
-            AI/ML projects and modern web technologies. I love blending creativity
-            and tech, with an eye for design, color, and interactive user experiences.
+            I'm a software engineer studying B.Tech in Artificial Intelligence at NIT
+            Surat (expected 2027). For the past year I've been building backend
+            services in production at WOW Finstack — Spring Boot microservices, REST
+            APIs, and payment infrastructure that processes real card transactions.
+            Somewhere between debugging an ISO8583 message flow and reading a Grad-CAM
+            heatmap, I figured out what I actually enjoy: systems that have to work
+            when the data is messy and the documentation is wrong. Alongside that, my
+            AI coursework and research have taken me from model training through
+            explainability, so I'm comfortable on both sides of the line where backend
+            architecture meets machine learning. I also care about how things look and
+            feel to use — design and interaction are part of the engineering, not an
+            afterthought.
           </motion.p>
         </motion.div>
       </div>
