@@ -12,6 +12,6 @@ export const projects = [
   {
     title: "Dynamic QR Management",
     desc: "A service that generates user-specific dynamic QR codes with optional image customization — REST backend, relational data model, and secure API layer.",
-    link: "http://170.187.232.199:8081/swagger-ui/index.html#/QR/generateQRCode",
+    link: "https://github.com/Srishti-Organization/qr-management-backend",
   }
 ];
